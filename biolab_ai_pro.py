@@ -1,4 +1,4 @@
-
+"""
 ╔══════════════════════════════════════════════════════════════╗
 ║          BioLab AI Pro — Genomic Sequence Analyzer           ║
 ║          Designed by  : ALI                                  ║
