@@ -2,11 +2,10 @@ import streamlit as st
 
 st.markdown(
     """
-    <meta name="google-site-verification" content="<meta name="google-site-verification" content="phLW3BCwlhAx-krXh1ZpZLSNsaYNYbRv-opuExf-SQA" />" />
+    <meta name="google-site-verification" content="phLW3BCwlhAx-krXh1ZpZLSNsaYNYbRv-opuExf-SQA" />" />
     """,
     unsafe_allow_html=True
 )
-"""
 ╔══════════════════════════════════════════════════════════════╗
 ║          BioLab AI Pro — Genomic Sequence Analyzer           ║
 ║          Designed by  : ALI                                  ║
