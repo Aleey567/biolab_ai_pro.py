@@ -1,4 +1,4 @@
-"""
+
 ╔══════════════════════════════════════════════════════════════╗
 ║          BioLab AI Pro — Genomic Sequence Analyzer           ║
 ║          Designed by  : ALI                                  ║
@@ -739,4 +739,4 @@ st.markdown("""
   <span>🧬 BioLab AI Pro &nbsp;·&nbsp; Final Year Project &nbsp;·&nbsp; Bioinformatics</span>
   <span>Designed by <b>ALI</b> &nbsp;|&nbsp; AG No: <code style="color:#9FE1CB">2022-AG-7647</code></span>
 </div>
-""", unsafe_allow_html=True)
+""", unsafe_allow_html=True
